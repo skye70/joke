@@ -1,38 +1,37 @@
-body{
+body {
     background-color: rgb(220, 230, 229);
     align-items: center;
     margin: 20px 30%;
 }
-h1{
-    padding: 0px;
+
+h1 {
+    padding: 0;
     margin: 10px 250px 10px;
     width: 80%;
-
 }
 
-.joker{
+.joker {
     width: 80%;
     margin: 20px auto;
 }
 
-
-.joker p{
+.joker p {
     width: 400px;
     height: 200px;
     border-radius: 2%;
     background-color: white;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     line-height: 1.2rem;
     font-size: 18px;
     padding: 30px 20px 4px;
 }
 
-button{
+button {
     background-color: blue;
     color: white;
     font-family: 'Courier New', Courier, monospace;
     margin: 20px 50%;
     border-radius: 10%;
-    box-shadow: red 2px 2px;
+    box-shadow: 2px 2px red;
 }
